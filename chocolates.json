@@ -1,0 +1,40 @@
+{
+  "chocolates": [
+    {
+      "name": "Dark Chocolate",
+      "brand": "Gourmet Delights",
+      "type": "Bittersweet",
+      "ingredients": ["cocoa solids", "sugar", "cocoa butter", "vanilla"],
+      "weight": 100,
+      "price": 3.99,
+      "is_vegan": true
+    },
+    {
+      "name": "Milk Chocolate",
+      "brand": "Sweet Indulgence",
+      "type": "Creamy Milk",
+      "ingredients": ["sugar", "cocoa solids", "milk powder", "cocoa butter", "vanilla"],
+      "weight": 150,
+      "price": 2.99,
+      "is_vegan": false
+    },
+    {
+      "name": "White Chocolate",
+      "brand": "Heavenly Treats",
+      "type": "Sweet Vanilla",
+      "ingredients": ["sugar", "cocoa butter", "milk powder", "vanilla"],
+      "weight": 120,
+      "price": 4.49,
+      "is_vegan": false
+    },
+    {
+      "name": "Hazelnut Chocolate",
+      "brand": "Nutty Delights",
+      "type": "Milk Chocolate with Hazelnuts",
+      "ingredients": ["sugar", "cocoa solids", "milk powder", "hazelnuts", "cocoa butter", "vanilla"],
+      "weight": 200,
+      "price": 5.99,
+      "is_vegan": false
+    }
+  ]
+}
